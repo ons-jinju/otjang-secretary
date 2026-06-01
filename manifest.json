@@ -1,0 +1,19 @@
+{
+  "name": "옷장비서",
+  "short_name": "옷장비서",
+  "description": "충동구매 막아주는 내 옷장 관리 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F2EC",
+  "theme_color": "#B8CBB5",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
